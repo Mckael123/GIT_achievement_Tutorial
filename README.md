@@ -1,4 +1,4 @@
-# GIT_achievment_Tutorial
+# GIT_achievement_Tutorial
 
 1. QUICKDRAW ACHIEVMENT
 
@@ -11,8 +11,9 @@
 3. YOLO
 <img width="290" height="146" alt="image" src="https://github.com/user-attachments/assets/13dac7f3-3b46-4a69-ab98-4190b6f97e47" />
 
+4.Pair Extraordinaire
+<img width="289" height="142" alt="image" src="https://github.com/user-attachments/assets/caae9b8c-5277-4c62-b68e-800d198774aa" />
 
-
-4. STARSTRUCK
+5. STARSTRUCK
 <img width="288" height="145" alt="image" src="https://github.com/user-attachments/assets/96e2a318-69d2-43ef-833d-fed7240c0c0c" />
 
